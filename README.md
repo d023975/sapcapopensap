@@ -64,11 +64,20 @@ cds init bookshop
 
 cds watch
 
-db life cycle tools:  flyway, liquibase, ...?  https://flywaydb.org/getstarted/why
 
+
+# Interesting stuff
 
 https://cap.cloud.sap/docs/node.js/authentication#mocked
 
+
+# Questions - Open Issues
+
+## How to handle DB life cycle, versioning
+
+db life cycle tools:  flyway, liquibase, ...?  https://flywaydb.org/getstarted/why
+
+## Best way to come close to close to DB statement execution
 
 Connectin Query ??     this.connection.query(sql);      ??    typORM
 
