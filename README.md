@@ -66,6 +66,26 @@ cds watch
 
 
 
+
+
+
+
+
+
+
+## some queries
+
+http://localhost:4004/browse/Books?$top=2&$skip=1
+http://localhost:4004/browse/Books(207)
+
+
+
+
+
+
+
+
+
 # Interesting stuff
 
 https://cap.cloud.sap/docs/node.js/authentication#mocked
